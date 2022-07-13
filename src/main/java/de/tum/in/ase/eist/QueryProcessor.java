@@ -15,7 +15,6 @@ public class QueryProcessor {
             return "MyTeam";
         } else if (query.contains("whichofthefollowingnumbersisthelargest")) { // TODO extend the programm here
 
-
             return "20756";
         }
     return null;
