@@ -17,6 +17,6 @@ public class QueryProcessor {
 
             return "EIST";
         }
-    return "EIST";
+    return null;
 }
 }
