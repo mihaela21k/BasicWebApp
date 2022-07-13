@@ -13,7 +13,7 @@ public class QueryProcessor {
                     "writer in the English language and the world's pre-eminent dramatist.";
         } else if (query.contains("name")) {
             return "MyTeam";
-        } else if (query.contains("20which%20of%20the%20following%20numbers%20is%20the%20largest")) { // TODO extend the programm here
+        } else if (query.contains("whichofthefollowing20numbers20is20the20largest")) { // TODO extend the programm here
 
 
             return "EIST";
